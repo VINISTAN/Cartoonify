@@ -1,0 +1,5 @@
+{
+  "name": "Cartoonify Me",
+  "description": "Upload a photo and transform the entire scene into a fun cartoon-style world using AI.",
+  "requestFramePermissions": []
+}
